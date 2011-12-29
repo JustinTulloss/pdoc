@@ -27,5 +27,7 @@ Gem::Specification.new do |s|
   s.add_dependency("BlueCloth", ["> 0.0.0"])
   s.add_dependency("treetop", ["> 0.0.0"])
   s.add_dependency("oyster", ["> 0.0.0"])
+  s.add_dependency("polyglot", ["> 0.0.0"])
+  s.add_dependency("open4", ["> 0.0.0"])
 end
 
