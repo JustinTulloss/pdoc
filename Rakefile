@@ -1,5 +1,5 @@
 require 'rake'
-require 'lib/pdoc'
+require './lib/pdoc'
 
 desc "Builds the documentation"
 task :build_doc do
