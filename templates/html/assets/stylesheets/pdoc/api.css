@@ -130,14 +130,16 @@ ul.breadcrumbs {
   margin: 0 0 30px 0;
 }
 
-  .page-content h2.page-title {
+  .page-content .page-title {
     margin: 0 0 15px 120px;
     line-height: 100%;
-    font-size: 27px;
     letter-spacing: -1px;
     color: #444;
+   }
+  .page-content h2.page-title {
+    font-size: 27px;
   }
-  
+
   .page-introduction {
     margin-left: 120px;
     margin-bottom: 25px;
